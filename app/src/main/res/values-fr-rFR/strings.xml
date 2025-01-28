@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">1st Application</string>
+    <string name="restart">Reesaie</string>
+    <string name="good_luck">Bonne Chance</string>
+    <string name="too_high">Trop haut</string>
+    <string name="too_low">Trop Bas</string>
+    <string name="you_won">T\'as gagné!</string>
+</resources>
